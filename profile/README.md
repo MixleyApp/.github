@@ -9,14 +9,14 @@ Most AI products ask you to trust a single model. Different models excel at diff
 
 **Mixley pairs two frontier models in a single conversation.**
 
-The first model plans and drafts. The second critiques that draft for gaps, weak assumptions and hallucinations, then synthesizes one answer. You see the work, not just the output — so the result is more reliable, more nuanced and more transparent than either model alone.
+The first model plans and drafts. The second critiques that draft for gaps, weak assumptions and hallucinations, then synthesizes one answer. You see the work, not just the output, so the result is more reliable, more nuanced and more transparent than either model alone.
 
 What you can do with Mixley:
-- Run dual-model inference with planning, critique and synthesis
-- Chat with a single frontier model when speed matters more than review
-- Generate images and video from the same workspace
-- Stake MIX for credits tied to real network usage
-- Contribute capacity to the Synthesis Data network as a node operator
+- Run dual-model inference with planning, critique and synthesis.
+- Chat with a single frontier model when speed matters more than review.
+- Generate images and video from the same workspace.
+- Stake MIX for credits tied to real network usage.
+- Contribute capacity to the Synthesis Data network as a node operator.
 
 Private by default. Conversations stay in your browser. Credits are the unit of usage; MIX is the participation asset of the network.
 

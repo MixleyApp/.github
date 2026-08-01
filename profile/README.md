@@ -26,7 +26,7 @@ Private by default. Conversations stay in your browser. Credits are the unit of 
 | --- | --- |
 | [mixley-sdk](https://github.com/MixleyApp/mixley-sdk) | TypeScript SDK for the Mixley API (OpenAI-compatible) |
 | [mixley-models](https://github.com/MixleyApp/mixley-models) | Catalog of models available in the product |
-| [mixley-credits](https://github.com/MixleyApp/mixley-credits) | Credits system specification — ledger, pricing, settlement |
+| [mixley-credits](https://github.com/MixleyApp/mixley-credits) | Credits system specification - ledger, pricing, settlement |
 | [mixley-synthesis-spec](https://github.com/MixleyApp/mixley-synthesis-spec) | Protocol spec for the Synthesis Data network |
 | [mixley-governance](https://github.com/MixleyApp/mixley-governance) | Governance model for the Mixley protocol |
 | [mixley-grants](https://github.com/MixleyApp/mixley-grants) | Grants program for builders on Mixley |

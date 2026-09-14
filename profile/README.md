@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Mixley — Mixed Model Intelligence" width="100%" />
+  <img src="./mixbanner.jpg" alt="Mixley — Mixed Model Intelligence" width="100%" />
 </p>
 
 ## Mixley
